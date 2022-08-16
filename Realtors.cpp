@@ -1,5 +1,4 @@
-﻿// ConsoleApplication1.cpp: определяет точку входа для консольного приложения.
-//
+
 #include "pch.h"
 #include <iostream>
 #include <stack>
